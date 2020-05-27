@@ -79,6 +79,7 @@ DEPENDENCIES
   capybara (~> 3.32.0)
   cucumber (~> 3.1.2)
   httparty (~> 0.17.0)
+  nokogiri (~> 1.10.9)
   os (= 1.0.1)
   pg (= 1.1.4)
   rspec (~> 3.8.0)

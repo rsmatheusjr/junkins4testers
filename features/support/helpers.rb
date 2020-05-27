@@ -9,6 +9,6 @@ module Helpers
       break if @token != nil
       sleep 1
     end
-    @token
+    @token.length
   end
 end
